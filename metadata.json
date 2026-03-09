@@ -1,0 +1,5 @@
+{
+  "name": "LinkPost AI",
+  "description": "Escanea noticias de tu sitio web y genera automáticamente posts e imágenes para tu Company Page de LinkedIn usando plantillas por categoría.",
+  "requestFramePermissions": []
+}
